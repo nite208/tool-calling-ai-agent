@@ -8,3 +8,5 @@ __pycache__/
 *.log
 logs/
 .idea/
+.venv-verify/
+powershell.bat

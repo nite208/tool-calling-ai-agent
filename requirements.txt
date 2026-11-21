@@ -1,0 +1,6 @@
+groq==1.7.0
+httpx==0.28.1
+streamlit==1.40.2
+requests==2.32.3
+python-dotenv==1.0.1
+pytest==8.3.3
